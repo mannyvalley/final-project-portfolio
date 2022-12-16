@@ -1,0 +1,50 @@
+html {
+    scroll-behavior: smooth;
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
+
+#main-nav {
+    background-color: transparent;
+}
+
+section {
+    height: 100vh;
+}
+
+#home {
+    background: url(/imgs/back.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+    
+
+}
+
+.custom-col {
+    margin-top: 25%;
+
+}
+
+i {
+    color: black;
+}
+
+
+
+.img-hero{
+    height: auto;
+}
+
+.spacing{
+    margin-top:10% ;
+}
+
+#carouselExampleControls{
+    width: 600px;
+    height: 600px;
+    
+}
